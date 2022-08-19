@@ -1,0 +1,63 @@
+.homePageWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    height: 100vh;
+}
+.formWrapper{
+    background-color: #282a36;
+    padding: 20px;
+    border-radius: 10px;
+    width: 380px;
+    max-width: 90%;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
+a{
+    color: #4aee88;
+    text-decoration: none;
+}
+a:hover{
+    color: #2b824c; 
+}
+.inputGroups{
+    display: flex;
+    flex-direction: column;
+}
+.mainLabel{
+    margin-bottom: 10px;
+}
+.inputBox{
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-bottom: 15px;
+    background:#eee;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn{
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-join{
+    background: #4aee88;
+    width: 100px;
+    margin-left: auto;
+}
+.btn-join:hover{
+    background: #2b824c;
+}
+.createInfo{
+    margin: 0 auto;
+    margin-top: 10px;
+}
