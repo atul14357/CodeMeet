@@ -51,7 +51,7 @@ function NewRoom(){
             </div>
           </div>
           <footer>
-            <h6>Made with love💛 by <a href="https://github.com/raunaktrip">Priyank</a></h6>
+            <h6>Made with love💛 by <a href="https://github.com/atul14357">Atul</a></h6>
         </footer>
         </div>
         </>
