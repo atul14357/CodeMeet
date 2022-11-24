@@ -11,4 +11,5 @@ and at the same place.
 To use this website , users directly interact with the website and without any
 registration, they can code the same editor instance in the same roomId.
 Different groups of users can create different rooms having different roomId.
-[embed]https://github.com/atul14357/CodeMeet/Project Report.pdf[/embed]
+
+Please see attached file above for more details about project.
